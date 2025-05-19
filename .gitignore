@@ -134,3 +134,9 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+# Ignore build files and sensitive info
+dist/
+.parcel-cache/
+.env
+node_modules/
