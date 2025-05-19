@@ -31,3 +31,5 @@ async function init() {
 
 // Wait for the DOM to be ready, then start the app
 addEventListener('DOMContentLoaded', init);
+
+
